@@ -19,4 +19,3 @@ reports:
     files:
       - 'coverage.xml'
     file-format: COBERTURAXML
-	
